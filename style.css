@@ -23,6 +23,14 @@
   height: 100%;
 }
 
+.pad20{
+  padding: 20px 0;
+}
+
+.mtb20{
+  margin: 20px 0;
+}
+
 #menu h1, h4{
   margin:0;
   position: absolute;
@@ -53,10 +61,6 @@ hr{
 
 .minibox{
   margin-bottom: 10px;
-}
-
-.minibox > .img{
-  width: 100%;
 }
 
 footer{
